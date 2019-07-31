@@ -1,2 +1,0 @@
-# dayax
-Created with CodeSandbox
